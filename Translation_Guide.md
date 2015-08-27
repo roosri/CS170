@@ -9,6 +9,7 @@
 * mi do = middle
 * nat caam = next time
 * obzek = object
+* ri = right
 * s s i = exercise
 * syn tat = syntax
 * z = j
